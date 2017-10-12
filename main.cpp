@@ -189,7 +189,7 @@ int main() {
         }
         break;
       default:
-        cout << "Error" << endl;
+        cerr << "Error" << endl;
     }
   }
   return 0;
